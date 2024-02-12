@@ -4,8 +4,15 @@ I'm a front-end developer with 2 years of experience, I'm inspired by the opport
 beautiful and intuitive user interfaces that enable users to work with web applications. I am actively
 developing in web engineering, working on my own projects. 
 
+### 🌐 Personal Links
+
 <p align="left">
-    <a href="www.linkedin.com/in/oleksandr-kononuchenko-442526286"></a>
+    <a href="https://t.me/peggy_13">
+        <img width="25px" height="25px" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+    </a>
+    <a href="www.linkedin.com/in/oleksandr-kononuchenko-442526286">
+        <img width="85px" height="25px" alt="Linkedin" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
+    </a>
 </p>
 
 ### 🧑‍💻 languages and Tools
