@@ -9,12 +9,14 @@ developing in web engineering, working on my own projects.
 </p>
 
 ### 🧑‍💻 languages and Tools
-<img align="left" width="30px" alt="HTML" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="CSS" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="TypeScript" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="JavaScript" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="Node.js" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="Nest.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-<img align="left" width="30px" style="padding-left: 10px;" alt="Next.js" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
-<hr />
+
+<img align="left" width="25px" alt="HTML" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="CSS" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="TypeScript" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="JavaScript" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="sass" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="Node.js" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="Nest.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="React.js" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+<img align="left" width="25px" height="25px" style="padding-left: 10px;" alt="Next.js" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />
+
